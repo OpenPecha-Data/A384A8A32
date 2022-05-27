@@ -1,0 +1,68 @@
+segment_sources:
+  I8F0FB84F:
+    type: origin_type
+    relation: translation
+    language: bo
+  I1D7959D4:
+    type: origin_type
+    relation: translation
+    language: sa
+  I4F24094B:
+    type: origin_type
+    relation: translation
+    language: en
+  I12527396:
+    type: origin_type
+    relation: translation
+    language: bo
+  I22BEFD09:
+    type: origin_type
+    relation: translation
+    language: zh
+  IBB73000C:
+    type: origin_type
+    relation: translation
+    language: zh
+segment_pairs:
+  000355335dad438eb6daec4c7d915321:
+    I8F0FB84F: 4c89ded0357a40b0bb9c77ad8e239c38
+    I1D7959D4: cdb88ce7853245ca9da30007aa12c666
+    I4F24094B: 68271e3e056d459cb7f38fde4b113ac8
+    I12527396: c201e908bd594115ae2a24d9ff9c35ca
+    I22BEFD09: 8262239d803f4218b4a0566d05210d9a
+    IBB73000C: 15e5063ace7e4a899f10ca81c3b1c19f
+  7317da4b59224e28a8f5e592cedf376d:
+    I8F0FB84F: f7d446d987df40f4a432aaf3d9033e86
+    I1D7959D4: 91e276a62bc54cbeabf0b2ee4f3a5e72
+    I4F24094B: 85a26ba131fb40f786629968634604f6
+    I12527396: 9be1abf5e040463cb05140e41a592f74
+    I22BEFD09: b12c11114e08458bb9a0ad4ff4528193
+    IBB73000C: b3d7d78c641241329c806cb85790d0fd
+  1ec26e0ac7b44900b98be31ad6cf9918:
+    I8F0FB84F: 22c69fffb9bd487db41ea87c9f52ef3f
+    I1D7959D4: 183556fbcc0b407c9f74ab9b9a47aa0f
+    I4F24094B: 464c6763051d4c4bbeb66646391da256
+    I12527396: b8f70bf12012496b8030cba64fc7598c
+    I22BEFD09: c8449ed273e7432d8de8af3450d141f1
+    IBB73000C: d5f80fc702f94075a1d2d8b28994b553
+  ee622c0416e84433a238eef106b60fd2:
+    I8F0FB84F: d6582174ee404a528de8450c29d62efe
+    I1D7959D4: 3a2cd64211184edb83c80bee9e9227f9
+    I4F24094B: 83f1c72d2e6f4fa68d65e33c1c2ce9ec
+    I12527396: 5ef8a1e5a01144e6a4e5c31c01f29694
+    I22BEFD09: f02cbe3cfe834e12b93e14ffede0f898
+    IBB73000C: 9b39ad2419a14798b1038f1498cd2b2d
+  ab600ad43c674844aace106dece94e2b:
+    I8F0FB84F: 0b28a4022b9e4083bb1f6e32ee3ea817
+    I1D7959D4: 47dcfd5d8f434d88903be5112c085cb1
+    I4F24094B: 5699693645454e11989b8239e39b6351
+    I12527396: 6f997c673faa4a25b57a3b10bb63999a
+    I22BEFD09: e9a3549445ad4998ad38eece1caa7fd7
+    IBB73000C: c0fa0a55034b4defbbe5aee2f9583470
+  aa07595c79a349af8062be017c2191e7:
+    I8F0FB84F: None
+    I1D7959D4: ad182f7f15df4962a5e449cfe91ae554
+    I4F24094B: 6fa8259074ae46118c378e605a63bd14
+    I12527396: None
+    I22BEFD09: 271e323c62ef4fe1970314568095f87a
+    IBB73000C: d350517ca08f481aab770475989a5ffb

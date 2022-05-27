@@ -1,0 +1,61 @@
+segment_sources:
+  I8F0FB84F:
+    type: origin_type
+    relation: translation
+    language: bo
+  I1D7959D4:
+    type: origin_type
+    relation: translation
+    language: sa
+  I4F24094B:
+    type: origin_type
+    relation: translation
+    language: en
+  I12527396:
+    type: origin_type
+    relation: translation
+    language: bo
+  I22BEFD09:
+    type: origin_type
+    relation: translation
+    language: zh
+  IBB73000C:
+    type: origin_type
+    relation: translation
+    language: zh
+segment_pairs:
+  31acba49742e4b09b36b4b1817d9037e:
+    I8F0FB84F: c60910c4ab784f408d9fff628fd57616
+    I1D7959D4: e98a8b627e3f49d1be2044c2cb5aa02c
+    I4F24094B: 25838c7cdaa64451b21e2cf3ac08efd9
+    I12527396: a033b1d2edba410598ccea3963d650d0
+    I22BEFD09: 8b9c76b886d74b49a601b69c83e714e5
+    IBB73000C: 8f89cb1cdae0463f8c5867447b231bed
+  2b6778333cc542bd825982981731fbed:
+    I8F0FB84F: ed0c9208b900456c90d0f697df446ac7
+    I1D7959D4: 98fcc9537ed240b5b277e8252e8bfb73
+    I4F24094B: e61286cd0ea14c27bd2e307d86c7923b
+    I12527396: 5f560681bf384b9eadbf045a0e94779b
+    I22BEFD09: 2cf793ccd9d94be7aef17b2a850fdb65
+    IBB73000C: 5f9a136ce3c642358f6e20358fa19191
+  343257cb9e134603a919ec13121cd8b3:
+    I8F0FB84F: d8e07de800644a73a347e713bc432732
+    I1D7959D4: 6d4c9f7fa7bb4416afcb351188e58961
+    I4F24094B: 898ba6060fa64fd88c4a59dadb3524d1
+    I12527396: 7636d82b8db249168b8b862b4bf518bc
+    I22BEFD09: 79a798fdc9c94f8ea724f78a3e0b3fef
+    IBB73000C: 94424a48eb5449c5ae8f9b77f5c368e7
+  c59dab52be2d495d9f9443227407fdc3:
+    I8F0FB84F: 5945186777854d7794fdb5c0284f8848
+    I1D7959D4: 15ba309fd07d486eb5778aec5c973a64
+    I4F24094B: 154c4d7b9b89466cb0446181abb1e704
+    I12527396: 1e2dd6e4d1514bbdb673684f021e012f
+    I22BEFD09: 82d42746d1fe4a88afa1001dd67b632f
+    IBB73000C: 33141e0741164e66bab01f004f207524
+  5d01b8340fed43dea9bcb563aec171e4:
+    I8F0FB84F: 6d0235efe7464af792836ff34c5266d1
+    I1D7959D4: a7215e4a36c84b0cb3d609e9aa5e7394
+    I4F24094B: 17146858e074463794332470e8976383
+    I12527396: e6b814fb6234466c8fba462da71ccea1
+    I22BEFD09: cbad3a80d43f48619633079c5831c4f5
+    IBB73000C: 314fb230deae4835badc40341cc175d2
